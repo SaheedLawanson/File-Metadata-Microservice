@@ -1,0 +1,53 @@
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(233, 233, 233);
+    border-radius: 20px;
+    padding: 50px;
+    width: 70%;
+    margin: auto;
+}
+
+p {
+    font-family: verdana;
+}
+
+#title {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#title2, #sub-title {
+    font-size: large;
+    margin: 10px;
+}
+
+#title2 {
+    font-weight: bold;
+}
+
+#design-box {
+    margin-top: 50px;
+    border: 2px solid gray;
+    width: 60%;
+    height: 200px;
+}
+
+#file-upload {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#file {
+    margin-top: 55px;
+}
+
+#submit {
+    margin-top: 35px;
+    width: 250px;
+    height:25px;
+}

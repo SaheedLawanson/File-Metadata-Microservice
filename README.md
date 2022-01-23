@@ -1,4 +1,4 @@
-About the project
+# About the project
 
 This project is an api that parses an uploaded file and returns the following details about the file once uploaded:
 
@@ -12,33 +12,31 @@ The result should look like this:
 This is a power point presentation file i uploaded to the site API.
 
 
-Built with
+# Built with
 
 - Node.js
 - Express.js
 - Multer.js
 
 
-Getting Started
+# Getting Started
 To get a local copy up and running, follow these simple steps.
 
 
-Prerequisites
+## Prerequisites
 
 - npm
 
 
-Installation & Usage
+## Installation & Usage
 
-- Clone the repo: git clone https://github.com/SaheedLawanson/File-Metadata-Microservice.git
+- Clone the repo: git clone https://github.com/SaheedLawanson/URL-Shortener.git
 
-- Install node: run in cmd
-    
-    ```npm install node```
+- Install node: Open cmd in the project root folder ```npm install node```
 
-- Open cmd in the project root folder and run 
-    
-    ```node index.js```
+- Install dependencies: ```npm install```
+
+- Run in cmd: ```node index.js```
 
 - On your preferred browser, visit "localhost:3000"
 
